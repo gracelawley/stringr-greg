@@ -12,8 +12,8 @@ Sam is Masters student studying chemistry and has been learning R in her free ti
 
 ## Resources
 
-* stringr [docs](https://stringr.tidyverse.org/reference/index.html)
+* The stringr [documentation](https://stringr.tidyverse.org/reference/index.html)
 * ["Introduction to stringr"](https://stringr.tidyverse.org/articles/stringr.html) vignette
-* The [Strings] Chapter in R for Data Science
+* The [Strings](https://r4ds.had.co.nz/strings.html) Chapter in R for Data Science
 
 
