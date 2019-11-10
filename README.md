@@ -1,1 +1,19 @@
-# stringr-greg
+# RStudio Certified Instructor Teaching Exam
+
+A 15 minute lesson on text manipulation with the stringr package.
+
+## Concept Map
+
+![](concept-map.png)
+
+## Learner Persona
+
+Sam is Masters student studying chemistry and has been learning R in her free time. She is interested in computational linguistics and just finished taking a Natural Language Processing course online where she learned about regular expressions. She knows that most real world natural language data is very messy. She wants to learn how she can use her new regular expression knowledge to clean and manipulate text in R. 
+
+## Resources
+
+* stringr [docs](https://stringr.tidyverse.org/reference/index.html)
+* ["Introduction to stringr"](https://stringr.tidyverse.org/articles/stringr.html) vignette
+* The [Strings] Chapter in R for Data Science
+
+
