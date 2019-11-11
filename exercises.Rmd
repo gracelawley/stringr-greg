@@ -1,0 +1,56 @@
+---
+title: Exercises
+author: RStudio Certified Instructor Teaching Exam
+date: 2019-11-11
+output: 
+  html_document:
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(stringr)
+
+veggies <- c("asparagus", "cabbage", "onion", "kale")
+veggies
+```
+
+
+# Exercise 1
+
+## What will the following code return?
+
+### 1.
+
+```{r}
+str_subset(veggies, "a")
+```
+
+
+### 2.
+
+```{r}
+str_extract(veggies, "a")
+```
+
+# Exercise 2
+
+## What will the following code return?
+
+```{r}
+str_sub(veggies, 1, 1)
+```
+
+```{r}
+str_replace(veggies, "[aeiou]", "_")
+```
+
+
+
+
+
+
